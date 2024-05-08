@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 4538046557752150206}
   - component: {fileID: -6598251157984033622}
   m_Layer: 0
-  m_Name: Archer_bullet
+  m_Name: ArcherBullet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -185,3 +185,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   skeletonAnimation: {fileID: 4538046557752150177}
   attack: {fileID: 11400000, guid: acb705801c8b153468fd9abf0721a187, type: 2}
+  CoinPrefab: {fileID: 7866804963895363284, guid: d5e19c784cadc36449543de4fdfd598c, type: 3}
